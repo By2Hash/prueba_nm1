@@ -1,6 +1,6 @@
 /* ===== Layout ===== */
 .app-layout {
-  display: flex;
+  display: flex; 
   min-height: 100vh;
   font-family: var(--sans);
   background: var(--bg);
